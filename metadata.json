@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MemeGenius AI",
+  "description": "An AI-powered meme factory that analyzes your images to suggest hilarious captions and performs intelligent image edits using Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
